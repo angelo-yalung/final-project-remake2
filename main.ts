@@ -15,7 +15,7 @@ const myArray = [
 'Have no faith, you are going nowhere in life.',
 'It is not worth the bother of offing yourself, since you always off yourself too late.',
 'The end is near.',
-'Will this never end?',
+'Will this ever end?',
 'Where is the light at the end of the tunnel?',
 'The game was rigged from the start.',
 'Theres nothing we can do.',
@@ -26,7 +26,7 @@ const myArray = [
 'A pessimist is a man who looks both ways when he crosses the street.',
 'There is no hope.',
 ''];
-let randomElement = myArray[randint(0, 10)]
+let randomElement = myArray[randint(0, 15)]
 
 // setup
 basic.showIcon(IconNames.Sad)
